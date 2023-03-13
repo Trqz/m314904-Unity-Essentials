@@ -916,6 +916,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 32cae2aafa5819b4e95f35081da0801d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  myMessage: the message of your choice.
 --- !u!4 &2136117657
 Transform:
   m_ObjectHideFlags: 0
