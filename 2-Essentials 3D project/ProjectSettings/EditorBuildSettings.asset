@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TheFloorIsLava.unity
+    guid: 0e72b4f052a4c3440ba71d10670532a8
   m_configObjects: {}
